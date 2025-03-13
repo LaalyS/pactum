@@ -1,6 +1,6 @@
 <span align="center">
 
-![logo](./assets/logo-icon-small.svg)
+[logo](./assets/logo-icon-small.svg)
 
 # PactumJS
 
